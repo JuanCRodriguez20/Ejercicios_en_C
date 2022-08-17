@@ -19,15 +19,17 @@ Juan Camilo Rodriguez Fonseca
 </p>
 
 <FONT FACE="times new roman" SIZE=3>
-<b>Instrucciones para Terminal de linux</b>
+<b>Instrucciones para Terminal de Linux</b>   
 
-Recuerde que para la correcta compilación y ejecución de cada uno de los archivos aquí presentados, debe instalar gcc, preferiblemente la versión 11.2.0 para trabajar con la misma versión que el autor del código y así no generar ningún posible inconveniente.
+Recuerde que, para la correcta compilación y ejecución de cada uno de los archivos aquí presentados, debe instalar gcc, preferiblemente la versión 11.2.0 para trabajar con la misma versión que el autor del código y así no generar ningún posible inconveniente. 
 
-Seguido de esto, valide que los 4 archivos se encuentren en el mismo directorio, Taller_C_01_JCRF_lib.c, Taller_C_01_JCRF_lib.h, Taller_C_01_JCRF_main.c, Makefile. Si no se encuentran en el mismo directorio, por favor corrija esto y acomodelos para que queden de esa forma.
+Seguido de esto, valide que los 4 archivos se encuentren en el mismo directorio, Taller_C_01_JCRF_lib.c, Taller_C_01_JCRF_lib.h, Taller_C_01_JCRF_main.c, Makefile. Si no se encuentran en el mismo directorio, por favor corrija esto para que queden de la forma correcta. 
 
-Después de validar la ubicación de los archivos, debe abrir una terminal en dicha ubicación, ejecutar recomendablemente el comando "make clean" y seguido de esto realizar la compilación con el comando "make Taller_C_01_JCRF_main", esto le generará un archivo ejecutable, el cuál podrá utilizar con el comando "./Taller_C_01_JCRF_main", finalmente lea las posibles opciones y disfrute de las soluciones otorgadas por el autor.
+Después de validar la ubicación de los archivos, debe abrir una terminal en dicha ubicación, ejecutar recomendablemente el comando "make clean" y seguido de esto realizar la compilación con el comando "make Taller_C_01_JCRF_main", esto le generará un archivo ejecutable, el cual podrá utilizar con el comando "./Taller_C_01_JCRF_main", finalmente lea las posibles opciones y disfrute de las soluciones otorgadas por el autor. 
 
-Secuencia de comandos: 
-- make clean; make Taller_C_01_JCRF_main
-- ./Taller_C_01_JCRF_main
+
+Secuencia de comandos:  
+  
+- make clean; make Taller_C_01_JCRF_main 
+- ./Taller_C_01_JCRF_main 
 </FONT>
